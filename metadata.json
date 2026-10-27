@@ -1,0 +1,7 @@
+{
+  "name": "Hollow Hall: The Unseen",
+  "description": "A psychological horror game set in an abandoned school. Collect occult clues while evading a malevolent, unseen entity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
